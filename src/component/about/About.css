@@ -1,0 +1,104 @@
+.nums{
+    margin-top: 115px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+    background-color: #a82d49;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.nums h3{
+    font-size: 45px;
+    padding-top: 50px;
+}
+
+.nums span{
+    font-size: 10px;
+    
+}
+
+
+.pride{
+    padding: 50px 0;
+    font-family: 'Quicksand', sans-serif;
+    
+}
+
+.pride img{
+    width: 100%;
+    border-radius: 10px;
+    
+}
+
+.pride #right{
+    padding-top: 40px;
+}
+
+.pride h3{
+    color: #43121d;
+    font-size: 35px;
+}
+
+.pride p{
+    padding: 20px 0;
+    line-height: 2;
+}
+
+
+@media (max-width: 991px){
+    section{
+        height: 600px;
+    }
+}
+
+#coll-left,#coll-right{
+    margin-top: 100px;
+}
+
+
+
+#coll-left p{
+    padding: 20px 0;
+    line-height: 1.6;
+}
+
+.lis{
+    
+    padding-bottom: 25px;
+    padding-left: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.lis li{
+    margin-top: 5px;
+    list-style: none;
+}
+
+
+.story{
+    background: url('../../pics/1.jpg') center no-repeat;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    padding: 100px 0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.story h2{
+    color: #a82d49;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.story p{
+    line-height: 1.8;
+}
+
+
+
+
+

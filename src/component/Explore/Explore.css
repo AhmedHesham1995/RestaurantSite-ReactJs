@@ -1,0 +1,81 @@
+.product{
+    padding-top: 70px;
+    text-align: center;
+    margin: 100px 0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.product h2{
+    margin-bottom: 20px;
+    color: #43121d;
+    font-size: 35px;
+}
+
+.product p{
+    line-height: 1.8
+}
+
+
+#card{
+    border: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#card img{
+    max-width: 100%;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+#card h6{
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+#card p{
+    color: #777;
+}
+
+#card div{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#card span{
+    margin-right: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #a82d49;
+    letter-spacing: 1px;
+}
+
+#card del{
+    font-size: 25px;
+    font-weight: bold;
+    color: #999;
+    letter-spacing: 1px;
+}
+
+#card hr{
+    color: #777;
+}
+
+#card button{
+    display: block;
+    background-color:#a82d49 ;
+    color: #fff;
+    border: 3px solid #a82d49;
+    padding: 6px 25px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 50px; 
+}
+
+#card button:hover, .hurry button:hover{
+    color: #a82d49 ;
+    background-color: #fff;
+    transition: all .5s;
+}
+
+
+

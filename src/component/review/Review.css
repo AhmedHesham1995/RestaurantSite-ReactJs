@@ -1,0 +1,96 @@
+
+.slider{
+    margin-top: 50px;
+    background-color: #a82d49;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    height: auto;
+    width: 100%;
+    padding: 50px 0;
+}
+
+.slider h2{
+    color: #fff;
+    font-weight: bold;
+    padding: 85px 0;
+    letter-spacing: 1px;
+}
+
+.carousel{
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 60px 0;
+    box-sizing: border-box;
+    margin: 40px 0;
+    height: auto;
+}
+
+.carousel img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 170px;
+}    
+
+.carousel p{
+    color: #333;
+    line-height: 1.8;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.carousel span{
+    color: #a82d49;
+    font-weight: bold;
+    display: block;
+}
+
+.carousel .carousel-indicators button{
+    background-color: #a82d49;
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+}    
+
+.carousel .carousel-indicators{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 15;
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    list-style: none;
+}
+
+.carousel .des{
+    margin-top: 70px;
+}
+
+
+.carousel .ph{
+    margin-bottom: 30px;
+}
+
+@media (max-width:780px){
+    .carousel .ph{
+        margin-bottom: 120px;
+    }
+}
+
+@media (max-width:540px){
+    .carousel .ph{
+        margin-bottom: 170px;
+    }
+}
+
+@media (max-width:280px){
+    .carousel .ph{
+        margin-bottom: 330px;
+    }
+}
+
+
+
