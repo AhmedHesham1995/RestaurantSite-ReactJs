@@ -1,7 +1,5 @@
 import './Explore.css';
-import { Container,Row,Carousel } from 'react-bootstrap';
-import pic1 from '../../pics/girl1.jpg';
-import pic2 from '../../pics/man1.jpg';
+import { Container,Row } from 'react-bootstrap';
 import Products from "../../Products";
 
 function Explore(){

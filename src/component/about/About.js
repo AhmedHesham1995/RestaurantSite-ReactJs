@@ -1,15 +1,10 @@
-import { Container,Row,Carousel } from "react-bootstrap";
+import { Container,Row } from "react-bootstrap";
 import './About.css';
 import pride from '../../pics/1.png';
 import coll from '../../pics/2.png';
 
 
 function About(){
-   
-  
-        
-   
-    
     return(
         <> 
             <div className='nums'>

@@ -1,8 +1,6 @@
 import { Container,Row } from "react-bootstrap";
 import './Home.css';
 
-
-
 function Home(){
     return(
     <>    
